@@ -1,0 +1,87 @@
+
+[
+  {
+    "hora_inicio": "5:00",
+    "hora_fin": "8:00",
+    "ventana_1": "Camilo se despereza y se va a la cocina a preparar los almuerzos de la semana.",
+    "ventana_2": "Juli está durmiendo, shhhhh!",
+    "ventana_3": "Natalia se despierta y saluda a su novio con mucha formalidad. Se pone las babuchas, bosteza un poco y se va a la cocina a tomarse su smoothie detox.",
+    "ventana_6": "Don José se levantó temprano para regar sus matas y calentarse un tinto.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  },
+  {
+    "hora_inicio": "8:00",
+    "hora_fin": "12:00",
+    "ventana_1": "¡Todo listo! Hora de irse a la U... Camilo empaca su coca de almuerzo y la llave del TransMi.",
+    "ventana_2": "¡A Juli se le hizo tarde! Se despierta afanada a perfumar su traje de Elmo, desayuna una mogolla con café y se va corriendo al trabajo.",
+    "ventana_3": "Natalia está ocupada en el computador. Ni siquiera escuchó cuando su novio se despidió al salir de la casa.",
+    "ventana_6": "Don José está descansando en su poltrona mientras mira 'Día a Día' en la televisión.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  },
+  {
+    "hora_inicio": "12:00",
+    "hora_fin": "14:00",
+    "ventana_1": "No hay nadie en casa. Camilo sigue en la U.",
+    "ventana_2": "No hay nadie en casa. Juli está en su trabajo como animadora de fiestas infantiles.",
+    "ventana_3": "Ummm, huele a que Natalia está preparando una pasta con salsa Alfredo...",
+    "ventana_6": "Don José está mirando un álbum de fotos con sus hijos. Los extraña mucho.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  },
+  {
+    "hora_inicio": "14:00",
+    "hora_fin": "17:00",
+    "ventana_1": "No hay nadie en casa. Camilo sigue en la U, pero... algo huele mal...",
+    "ventana_2": "¡Por fin en casa! Malas noticias... Juli fue despedida. Llegó una hora tarde al evento al que la habían contratado y dejó caer la torta de cumpleaños de Isabella, una chiquita de 6 años fan de Plaza Sésamo.",
+    "ventana_3": "No hay nadie en casa. Natalia salió a comprar velas y vino en el supermercado.",
+    "ventana_6": "Un courier de FedEx está tocando la puerta de Don José. Al parecer, sus hijos le han enviado un paquete...",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  },
+  {
+    "hora_inicio": "17:00",
+    "hora_fin": "19:00",
+    "ventana_1": "¡Por fin en casa! ¿Qué es ese olor?... ¡La estufa quedó encendida! ¡Fuego! ¡Fuegooooooo! Camilo, ¡llama a los bomberos!",
+    "ventana_2": "Juli está sentada en el sofá comiendo Doritos mientras finge ver el capítulo 15 de 'Café con Aroma de Mujer'... En realidad, está pensando qué decirle a Don José, su arrendatario, luego de perder una vez más otro trabajo y no tener cómo pagarle la cuota de este mes.",
+    "ventana_3": "Natalia está pintándose los labios de un tono parecido al vino que ya sirvió en dos copas. Apaga las luces, enciende las velas y pone desde el televisor una musiquita sensualona que apenas se escucha en la sala.",
+    "ventana_6": "No hay nadie en casa. Don José salió al supermercado por unas croquetas de pollo para cachorros.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  },
+  {
+    "hora_inicio": "19:00",
+    "hora_fin": "21:00",
+    "ventana_1": "La alarma del camión de bomberos inquieta a todo el barrio. Las llamas del apartamento cesan hasta dejar solo cenizas. Camilo observa desde afuera mientras piensa dónde pasar la noche...",
+    "ventana_2": "Juli está viendo el capítulo 18 de 'Café con Aroma de Mujer'. Ni siquiera escuchó el bochinche de afuera.",
+    "ventana_3": "Natalia está con Alfredo cenando la pasta que preparó hace unas horas y brindando con vino. (Si no fuera por el ruido que hay afuera, el momento sería perfecto).",
+    "ventana_6": "Don José está apapachando a Buñuelo, su nueva mascota, que, asustado por el ruido, corrió hacia sus brazos. Sus hijos dieron en el clavo: la soledad de Don José será mucho más llevadera con Buñuelo a su lado.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  },
+  {
+    "hora_inicio": "21:00",
+    "hora_fin": "5:00",
+    "ventana_1": "No hay nadie en casa. Camilo se fue a casa de Juli, su vecina.",
+    "ventana_2": "Juli está hablando con Camilo por celular... '¿Qué? ¿Cómo que tu casa se incendió, Camilo? Claro, puedes quedarte acá, todo bien'.",
+    "ventana_3": "Natalia y Alfredo están a punto de besarse... esperen... ¡oh, no! ¡El novio de Natalia acaba de llegar del trabajo!",
+    "ventana_6": "Don José y Buñuelo están durmiendo, shhhhh!",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_6": ""
+  }
+]
