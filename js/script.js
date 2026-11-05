@@ -1,25 +1,27 @@
 
 const touchArea = document.getElementById("touch-area");
-const counter = document.getElementById("counter");
+const image = document.getElementById("image");
 
 const colors = {
-  1: "#ff0000",   // Rojo
-  2: "#800080",   // Morado
-  3: "#0000ff",   // Azul
-  4: "#008000",   // Verde
-  5: "#ffff00",   // Amarillo
-  6: "#ffa500",   // Naranja
-  7: "#ff69b4",   // Rosado
-  8: "#00ffff",   // Cyan
-  9: "#a52a2a",   // Marrón
-  10: "#000000"   // Negro
+  1: "#ff0000",
+  2: "#800080",
+  3: "#0000ff",
+  4: "#008000",
+  5: "#ffff00",
+  6: "#ffa500",
+  7: "#ff69b4",
+  8: "#00ffff",
+  9: "#a52a2a",
+  10: "#000000"
 };
 
 function updateCounter(event) {
   const fingers = event.touches.length;
 
-  counter.textContent = fingers;
+  // Cambiar la imagen según los dedos
+  image.src = `img/${fingers}.png`;
 
+  // Cambiar el color del fondo
   if (fingers >= 1 && fingers <= 10) {
     touchArea.style.backgroundColor = colors[fingers];
   } else {
@@ -27,8 +29,7 @@ function updateCounter(event) {
   }
 }
 
-touchArea.addEventListener("touchstart", updateCounter, { passive: true });
-touchArea.addEventListener("touchmove", updateCounter, { passive: true });
+touchArea.addEventListener("touchstart", updateCounter);
+touchArea.addEventListener("touchmove", updateCounter);
 touchArea.addEventListener("touchend", updateCounter);
 touchArea.addEventListener("touchcancel", updateCounter);
-
